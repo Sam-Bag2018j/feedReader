@@ -2,7 +2,7 @@
 This is an existing project from Udacity to front end web develper nano degree students, students have to use Jasmine to write all required tests to ensure the Javascript is working properly.
 
 ## How to Run Appilcation
-Download starter code from [here] https://github.com/udacity/frontend-nanodegree-feedreader. Then open the index.html file in a browser.
+Download starter code from [here](https://github.com/udacity/frontend-nanodegree-feedreader). Then open the index.html file in a browser.
 
 ## Implemented Tests
 * Test that allfeeds has been defined and it isn't empty
@@ -14,5 +14,5 @@ Download starter code from [here] https://github.com/udacity/frontend-nanodegree
 * Tests to see if two entries have same content or not.
 
 ## Udacity Instructions
-  [Click Here]https://github.com/udacity/frontend-nanodegree-feedreader.
+  [Click Here](https://github.com/udacity/frontend-nanodegree-feedreader).
 
