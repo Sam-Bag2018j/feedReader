@@ -60,7 +60,6 @@ $(function() {
          * hiding/showing of the menu element.
          */
         describe('The menu', function(){
-         //  m = getElementsByClassName(menu-hidden);
          const bodyContainer= document.querySelector('body');
          it('hiden menu by default',function(){
           expect(bodyContainer.classList.contains('menu-hidden')).toBe(true);
@@ -81,12 +80,6 @@ $(function() {
              
             menu_icon.click();
             expect(bodyContainer.classList.contains('menu-hidden')).toBe(true);
-
-          
-         // menu_icon.onClick();
-        //  if(menu_icon.classList)
-          //menu_icon.toggle('slide-menu')
-           // expect(bodyContainer.classList.contains('menu-hidden')).toBe(true);
          });
      });
     /* TODO: Write a new test suite named "Initial Entries" */
@@ -120,7 +113,6 @@ $(function() {
         beforeEach(function(done){
            
             firstFeed = loadFeed(0,function(){
-            //loadFeed(1,done);
              firstFeed_text= document.querySelector('.feed').innerText;
             done();
             });
