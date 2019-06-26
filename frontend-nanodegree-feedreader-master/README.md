@@ -14,5 +14,5 @@ Download starter code from [here](https://github.com/udacity/frontend-nanodegree
 * Tests to see if two entries have same content or not.
 
 ## Udacity Instructions
-  [Click Here](https://github.com/udacity/frontend-nanodegree-feedreader).
+ For more details about how to achieve this assignment [Click Here](https://github.com/udacity/frontend-nanodegree-feedreader).
 
